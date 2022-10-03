@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83890055919",
+    "firebase_url": "https://discussion-72c5c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "discussion-72c5c",
+    "storage_bucket": "discussion-72c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83890055919:android:aaf25fd46037f36a6f491a",
+        "android_client_info": {
+          "package_name": "com.example.genesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83890055919-5h7o7f3vd103iju75uk55l13sdutnv5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI1CBdgGC6IoAE3ZQAHzdtc_7la1J_K7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83890055919-5h7o7f3vd103iju75uk55l13sdutnv5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83890055919-mg0ak3a5dq7iqgmgj79v21qk3vgma9mk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.genesis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
